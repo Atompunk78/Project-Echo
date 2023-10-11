@@ -4,5 +4,4 @@ In a pitch-black room you must work out where the enemy is from the sounds they 
 
 Controls:
 
-Move: WSAD
-Shoot: LMB
+Move: WSAD, shoot: LMB
